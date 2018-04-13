@@ -1,5 +1,7 @@
 clear;
 clc;
+%ldeal situation
+%The only difference is speed
 vx=-50:0.1:50;
 vy=-50:0.1:50;
 [vx,vy]=meshgrid(vx,vy);

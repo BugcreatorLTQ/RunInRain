@@ -1,5 +1,6 @@
 clear;
 clc;
+%Real situation
 vx=-20:0.1:20;
 vy=-20:0.1:20;
 [vx,vy]=meshgrid(vx,vy);
