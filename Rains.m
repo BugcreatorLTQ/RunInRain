@@ -9,6 +9,7 @@ Q1=S1*m*temp1./Vz./v;
 Q2=S2*m*temp2./Vz./v;
 Q3=S3*m./v;
 Q=Q1+Q2+Q3;
+%best rolution
 Vx,Vy,Vz
 end
 
